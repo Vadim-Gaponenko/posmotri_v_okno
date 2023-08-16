@@ -142,9 +142,6 @@ html {
   outline: none;
   border: 1px solid #fff;
 }
-.search-form__label:focus {
-  outline: none;
-}
 
 .search-form__checkbox-list {
   display: flex;
