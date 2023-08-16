@@ -1,1 +1,0 @@
-https://github.com/Vadim-Gaponenko/posmotri_v_okno.git
