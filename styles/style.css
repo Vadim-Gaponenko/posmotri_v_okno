@@ -199,7 +199,7 @@ input[type="checkbox"]:checked + span {
   color: #fff;
   margin: 2px;
 }
-.content__card-link:active {
+.content__card-link_current {
   background-color: #545050;
 }
 .content__video-card-description-container:hover {
